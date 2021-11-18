@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FhVg4XX0KoGFRq393ihtdYtSl12+j9tGolAunYFgCZZa9XVEVbDgkrMsTA+99ujpTXlhnCNQOaa4VnUUkw2M9A==",
+  "dgSpecHash": "oYz2PpDBsgHvBJNzgQ/tek9oQhrIPe+CErtyiPPZzuejAsIKACfkL8cTj+ZCiN+4Ug7y7sBrepmn6OZz8p/2mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj",
+  "projectFilePath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.ProductServices.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

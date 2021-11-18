@@ -11,7 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using Bakery.Repository;
+using Bakery.ProductServices;
+using Bakery.ProductOverviewService;
 using Bakery.Domain;
 using Bakery.Domain.Entities;
 namespace Bakery.Service
@@ -31,6 +32,7 @@ namespace Bakery.Service
 
             services.AddControllers();
             services.AddSingleton<IProductService,ProductService>();
+            services.AddSingleton<IOverviewService,OverviewService>();
             services.AddSingleton<IBakeryRepository,BakeryRepository>();
             services.AddSingleton<ICollection<ProductEntity>,List<ProductEntity>>();
             services.AddSwaggerGen(c =>

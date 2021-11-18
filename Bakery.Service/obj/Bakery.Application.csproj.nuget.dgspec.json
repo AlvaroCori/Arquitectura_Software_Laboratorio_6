@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj",
+        "projectName": "Bakery.Domain",
+        "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj",
+        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductController\\Bakery.ProductController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductController\\Bakery.ProductController.csproj",
+        "projectName": "Bakery.ProductController",
+        "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductController\\Bakery.ProductController.csproj",
+        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductController\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverviewsController\\Bakery.ProductOverviewsController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverviewsController\\Bakery.ProductOverviewsController.csproj",
+        "projectName": "Bakery.ProductOverviewsController",
+        "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverviewsController\\Bakery.ProductOverviewsController.csproj",
+        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverviewsController\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj",
+        "projectName": "Bakery.Repository",
+        "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj",
+        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj": {
+                "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.Application.csproj",
+        "projectName": "Bakery.Application",
+        "projectPath": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.Application.csproj",
+        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductController\\Bakery.ProductController.csproj": {
+                "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductController\\Bakery.ProductController.csproj"
+              },
+              "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverviewsController\\Bakery.ProductOverviewsController.csproj": {
+                "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverviewsController\\Bakery.ProductOverviewsController.csproj"
+              },
+              "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj": {
+                "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.DomainTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.DomainTest\obj\Debug\net5.0\Bakery.DomainTest.csproj.AssemblyReference.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.DomainTest\obj\Debug\net5.0\Bakery.DomainTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.DomainTest\obj\Debug\net5.0\Bakery.DomainTest.AssemblyInfoInputs.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.DomainTest\obj\Debug\net5.0\Bakery.DomainTest.AssemblyInfo.cs
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.DomainTest\obj\Debug\net5.0\Bakery.DomainTest.csproj.CoreCompileInputs.cache

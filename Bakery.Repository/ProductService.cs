@@ -1,11 +1,10 @@
 using System;
 using Bakery.Domain;
 using Bakery.Domain.Entities;
-using Bakery.Repository.Models;
-
+using Bakery.ProductServices.Models;
 using System.Collections.Generic;
 
-namespace Bakery.Repository
+namespace Bakery.ProductServices
 {
     public class ProductService : IProductService
     {
@@ -14,7 +13,7 @@ namespace Bakery.Repository
         {
             _repository = repository;
         }
-        public ProductModel TransformEntityToModel(ProductEntity entityProduct)
+        private ProductModel TransformEntityToModel(ProductEntity entityProduct)
         {
             ProductModel productModel = new ProductModel();
             productModel.Id = entityProduct.Id;
@@ -24,7 +23,7 @@ namespace Bakery.Repository
             productModel.Category = entityProduct.Category;
             return productModel; 
         }
-        public ProductEntity TransformModelToEntity(ProductModel productModel)
+        private ProductEntity TransformModelToEntity(ProductModel productModel)
         {
             ProductEntity productEntity = new ProductEntity();
             productEntity.Id = productModel.Id;

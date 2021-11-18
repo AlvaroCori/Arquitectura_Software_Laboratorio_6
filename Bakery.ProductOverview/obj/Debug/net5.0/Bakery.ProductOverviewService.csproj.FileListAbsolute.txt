@@ -1,0 +1,15 @@
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.csproj.AssemblyReference.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.AssemblyInfoInputs.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.AssemblyInfo.cs
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.csproj.CoreCompileInputs.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\Bakery.ProductOverviewService.deps.json
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\Bakery.ProductOverviewService.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\ref\Bakery.ProductOverviewService.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\Bakery.ProductOverviewService.pdb
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\Bakery.Domain.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\Bakery.Domain.pdb
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.csproj.CopyComplete
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\ref\Bakery.ProductOverviewService.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.pdb

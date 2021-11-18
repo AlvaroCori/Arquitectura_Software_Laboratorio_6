@@ -1,0 +1,5 @@
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverviewsController\obj\Debug\net5.0\Bakery.ProductOverviewsController.csproj.AssemblyReference.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverviewsController\obj\Debug\net5.0\Bakery.ProductOverviewsController.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverviewsController\obj\Debug\net5.0\Bakery.ProductOverviewsController.AssemblyInfoInputs.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverviewsController\obj\Debug\net5.0\Bakery.ProductOverviewsController.AssemblyInfo.cs
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverviewsController\obj\Debug\net5.0\Bakery.ProductOverviewsController.csproj.CoreCompileInputs.cache

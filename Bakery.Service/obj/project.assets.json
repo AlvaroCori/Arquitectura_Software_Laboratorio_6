@@ -86,17 +86,30 @@
           "bin/placeholder/Bakery.Domain.dll": {}
         }
       },
-      "Bakery.Repository/1.0.0": {
+      "Bakery.ProductOverviewService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Bakery.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Bakery.Repository.dll": {}
+          "bin/placeholder/Bakery.ProductOverviewService.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bakery.Repository.dll": {}
+          "bin/placeholder/Bakery.ProductOverviewService.dll": {}
+        }
+      },
+      "Bakery.ProductServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Bakery.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bakery.ProductServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bakery.ProductServices.dll": {}
         }
       }
     }
@@ -214,15 +227,21 @@
       "path": "../Bakery.Domain/Bakery.Domain.csproj",
       "msbuildProject": "../Bakery.Domain/Bakery.Domain.csproj"
     },
-    "Bakery.Repository/1.0.0": {
+    "Bakery.ProductOverviewService/1.0.0": {
       "type": "project",
-      "path": "../Bakery.Repository/Bakery.Repository.csproj",
-      "msbuildProject": "../Bakery.Repository/Bakery.Repository.csproj"
+      "path": "../Bakery.ProductOverview/Bakery.ProductOverviewService.csproj",
+      "msbuildProject": "../Bakery.ProductOverview/Bakery.ProductOverviewService.csproj"
+    },
+    "Bakery.ProductServices/1.0.0": {
+      "type": "project",
+      "path": "../Bakery.Repository/Bakery.ProductServices.csproj",
+      "msbuildProject": "../Bakery.Repository/Bakery.ProductServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Bakery.Repository >= 1.0.0",
+      "Bakery.ProductOverviewService >= 1.0.0",
+      "Bakery.ProductServices >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -232,9 +251,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.Service.csproj",
-      "projectName": "Bakery.Service",
-      "projectPath": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.Service.csproj",
+      "projectUniqueName": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.BakeryAPI.csproj",
+      "projectName": "Bakery.BakeryAPI",
+      "projectPath": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\Bakery.BakeryAPI.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Service\\obj\\",
       "projectStyle": "PackageReference",
@@ -253,8 +272,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj": {
-              "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj"
+            "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverview\\Bakery.ProductOverviewService.csproj": {
+              "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductOverview\\Bakery.ProductOverviewService.csproj"
+            },
+            "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.ProductServices.csproj": {
+              "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.ProductServices.csproj"
             }
           }
         }

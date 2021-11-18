@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj",
-      "projectName": "Bakery.Repository",
-      "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.ProductServices.csproj",
+      "projectName": "Bakery.ProductServices",
+      "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.ProductServices.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\obj\\",
       "projectStyle": "PackageReference",

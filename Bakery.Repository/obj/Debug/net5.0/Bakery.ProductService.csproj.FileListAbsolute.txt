@@ -1,0 +1,15 @@
+C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\bin\Debug\net5.0\Bakery.ProductService.deps.json
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\bin\Debug\net5.0\Bakery.ProductService.dll
+C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\bin\Debug\net5.0\ref\Bakery.ProductService.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\bin\Debug\net5.0\Bakery.ProductService.pdb
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\bin\Debug\net5.0\Bakery.Domain.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\bin\Debug\net5.0\Bakery.Domain.pdb
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.csproj.AssemblyReference.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.AssemblyInfoInputs.cache
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.AssemblyInfo.cs
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.csproj.CopyComplete
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\ref\Bakery.ProductService.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.Repository\obj\Debug\net5.0\Bakery.ProductService.pdb

@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-namespace Bakery.Repository.Models
+namespace Bakery.ProductServices.Models
 {
     public class ProductModel
     {

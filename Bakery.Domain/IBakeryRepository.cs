@@ -8,6 +8,5 @@ namespace Bakery.Domain
     {
         ICollection<ProductEntity> GetProducts();
         ProductEntity CreateProduct(ProductEntity newProduct);
-
     }
 }

@@ -2,7 +2,8 @@
 #### Alvaro Bryan Cori Sanchez
 #### Laboratorio 6: Implentacion de un patron o modelo arquitectonico monolitico
 ## Arquitectura Hexagonal
-
+![diagrama_de_clases](https://github.com/AlvaroCori/Arquitectura_Software_Laboratorio_6/blob/main/img/figura_hexagonal.png)
+### Imagen obtenida por internet
 La arquitectura hexagonal es un modelo monolitico que tiene como objetivo 
 esta arquitectura se suele presentar con forma de hexágono, aunque el número de lados no importan, sino lo que estos representan. Cada lado representa un puerto hacia dentro o fuera de la aplicación. Un puerto puede ser un HTTP para hacer peticiones a nuestra aplicación, otro puerto se le puede aplicar SOAP que tambien hace peticiones.
 La forma de acceder a las capas internas es mediante adaptares para cada puerto el cual nos permita acceder y usar
@@ -20,3 +21,24 @@ Una panaderia quiere registrar sus ventas usando un servicio REST en un servidor
 En un principio se quiere registrar el producto vendido, precio, cantidad y informacion como que tipo de producto como puede ser panes, pies, empanadas, pasteles, etc.
 
 Tambien se pidio que el sistema saque un resumen de las ventas en base al tipo de producto como por ejemplo cuanto se gano vendiendo pan, que cantidades se llevaron y cuantas ventas se registro.
+## Diagrama de Hexagono
+![diagrama_de_clases](https://github.com/AlvaroCori/Arquitectura_Software_Laboratorio_6/blob/main/img/Diagrama_Hexagonal.jpg)
+### Elaboracion propia
+En el diagrama la solucion se muestra en un modelo hexagonal donde en un flujo tenemos al registro de ventas el cual se puede crear y ver las ventas creadas, por otro flujo se puede obtener los resumenes de las ventas mientras que en otra parte guardamos las ventas para usarlas despues. 
+
+## C4
+El diagrama de capas de la aplicacion es la siguiente:
+
+### Primera Capa
+![diagrama_de_clases](https://github.com/AlvaroCori/Arquitectura_Software_Laboratorio_6/blob/main/img/1er_nivel.jpg)
+### Elaboracion propia
+### Segunda Capa
+![diagrama_de_clases](https://github.com/AlvaroCori/Arquitectura_Software_Laboratorio_6/blob/main/img/2do_nivel.jpg)
+### Elaboracion propia
+### Tercera Capa
+![diagrama_de_clases](https://github.com/AlvaroCori/Arquitectura_Software_Laboratorio_6/blob/main/img/3_nivel.jpg)
+### Elaboracion propia
+### Cuarta Capa
+![diagrama_de_clases](https://github.com/AlvaroCori/Arquitectura_Software_Laboratorio_6/blob/main/img/4_nivel.jpg)
+### Elaboracion propia
+

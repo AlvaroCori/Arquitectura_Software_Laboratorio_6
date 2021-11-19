@@ -22,6 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Bakery.ProductOverview\Bakery.ProductOverviewService.csproj" />
     <ProjectReference Include="..\Bakery.Domain\Bakery.Domain.csproj" />
+    <ProjectReference Include="..\Bakery.RepositoryBakeryBD\Bakery.DBBakeryRepository.csproj" />
   </ItemGroup>
 
 </Project>

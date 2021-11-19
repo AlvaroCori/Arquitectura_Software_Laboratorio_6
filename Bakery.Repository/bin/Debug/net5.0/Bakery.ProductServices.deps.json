@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v5.0": {
       "Bakery.ProductServices/1.0.0": {
         "dependencies": {
+          "Bakery.DBBakeryRepository": "1.0.0",
           "Bakery.Domain": "1.0.0"
         },
         "runtime": {
           "Bakery.ProductServices.dll": {}
+        }
+      },
+      "Bakery.DBBakeryRepository/1.0.0": {
+        "dependencies": {
+          "Bakery.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bakery.DBBakeryRepository.dll": {}
         }
       },
       "Bakery.Domain/1.0.0": {
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "Bakery.ProductServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bakery.DBBakeryRepository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

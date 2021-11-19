@@ -1,8 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Bakery.Domain;
-using Bakery.Domain.Entities;
+using Bakery.DBBakeryRepository;
 using Bakery.ProductOverviewService.Models;
 
 namespace Bakery.ProductOverviewService

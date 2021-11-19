@@ -117,3 +117,5 @@ C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laborato
 C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.BakeryAPI.UnitTest\obj\Debug\net5.0\ref\Bakery.BakeryAPI.UnitTest.dll
 C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.BakeryAPI.UnitTest\obj\Debug\net5.0\Bakery.BakeryAPI.UnitTest.pdb
 C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.BakeryAPI.UnitTest\obj\Debug\net5.0\Bakery.BakeryAPI.UnitTest.genruntimeconfig.cache
+C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.BakeryAPI.UnitTest\bin\Debug\net5.0\Bakery.DBBakeryRepository.dll
+C:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.BakeryAPI.UnitTest\bin\Debug\net5.0\Bakery.DBBakeryRepository.pdb

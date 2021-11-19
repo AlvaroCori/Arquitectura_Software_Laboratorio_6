@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Bakery.ProductServices;
 using Bakery.ProductOverviewService;
-using Bakery.Domain;
+using Bakery.DBBakeryRepository;
 using Bakery.Domain.Entities;
 namespace Bakery.Service
 {

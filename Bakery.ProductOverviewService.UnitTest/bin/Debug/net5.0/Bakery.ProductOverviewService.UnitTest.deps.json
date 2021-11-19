@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Bakery.ProductOverviewService.UnitTest/1.0.0": {
         "dependencies": {
+          "Bakery.DBBakeryRepository": "1.0.0",
           "Bakery.Domain": "1.0.0",
           "Bakery.ProductOverviewService": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.9.4",
@@ -1091,6 +1092,14 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
+      "Bakery.DBBakeryRepository/1.0.0": {
+        "dependencies": {
+          "Bakery.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bakery.DBBakeryRepository.dll": {}
+        }
+      },
       "Bakery.Domain/1.0.0": {
         "runtime": {
           "Bakery.Domain.dll": {}
@@ -1098,6 +1107,7 @@
       },
       "Bakery.ProductOverviewService/1.0.0": {
         "dependencies": {
+          "Bakery.DBBakeryRepository": "1.0.0",
           "Bakery.Domain": "1.0.0"
         },
         "runtime": {
@@ -1755,6 +1765,11 @@
       "sha512": "sha512-kZZSmOmKA8OBlAJaquPXnJJLM9RwQ27H7BMVqfMLUcTi9xHinWGJiWksa3D4NEtz0wZ/nxd2mogObvBgJKCRhQ==",
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    },
+    "Bakery.DBBakeryRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Bakery.Domain/1.0.0": {
       "type": "project",

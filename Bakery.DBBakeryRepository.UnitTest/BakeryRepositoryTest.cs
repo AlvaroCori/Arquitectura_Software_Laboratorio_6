@@ -2,9 +2,9 @@ using System;
 using Xunit;
 using System.Collections.Generic;
 using System.Linq;
-using Bakery.Domain;
+using Bakery.DBBakeryRepository;
 using Bakery.Domain.Entities;
-namespace Bakery.Domain.UnitTest
+namespace Bakery.DBBakeryRepository.UnitTest
 {
     public class BakeryRepositoryTest
     {

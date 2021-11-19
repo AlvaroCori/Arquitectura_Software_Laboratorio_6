@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Bakery.ProductOverview\Bakery.ProductOverviewService.csproj" />
     <ProjectReference Include="..\Bakery.Repository\Bakery.ProductServices.csproj" />
+    <ProjectReference Include="..\Bakery.RepositoryBakeryBD\Bakery.DBBakeryRepository.csproj" />
   </ItemGroup>
 
 </Project>

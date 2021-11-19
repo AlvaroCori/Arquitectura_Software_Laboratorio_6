@@ -13,3 +13,5 @@ c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laborato
 c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.dll
 c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\ref\Bakery.ProductOverviewService.dll
 c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\obj\Debug\net5.0\Bakery.ProductOverviewService.pdb
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\Bakery.DBBakeryRepository.dll
+c:\Users\ABC\Downloads\arquitectura\laboratorio_6\Arquitectura_Software_Laboratorio_6\Bakery.ProductOverview\bin\Debug\net5.0\Bakery.DBBakeryRepository.pdb

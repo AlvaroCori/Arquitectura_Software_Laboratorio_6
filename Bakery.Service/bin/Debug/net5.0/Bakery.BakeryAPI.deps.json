@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Bakery.BakeryAPI/1.0.0": {
         "dependencies": {
+          "Bakery.DBBakeryRepository": "1.0.0",
           "Bakery.ProductOverviewService": "1.0.0",
           "Bakery.ProductServices": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
@@ -386,6 +387,17 @@
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         }
       },
+      "Bakery.DBBakeryRepository/1.0.0": {
+        "dependencies": {
+          "Bakery.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bakery.DBBakeryRepository.dll": {}
+        },
+        "compile": {
+          "Bakery.DBBakeryRepository.dll": {}
+        }
+      },
       "Bakery.Domain/1.0.0": {
         "runtime": {
           "Bakery.Domain.dll": {}
@@ -396,6 +408,7 @@
       },
       "Bakery.ProductOverviewService/1.0.0": {
         "dependencies": {
+          "Bakery.DBBakeryRepository": "1.0.0",
           "Bakery.Domain": "1.0.0"
         },
         "runtime": {
@@ -407,6 +420,7 @@
       },
       "Bakery.ProductServices/1.0.0": {
         "dependencies": {
+          "Bakery.DBBakeryRepository": "1.0.0",
           "Bakery.Domain": "1.0.0"
         },
         "runtime": {
@@ -2163,6 +2177,11 @@
       "sha512": "sha512-BPvcPxQRMsYZ3HnYmGKRWDwX4Wo29WHh14Q6B10BB8Yfbbcza+agOC2UrBFA1EuaZuOsFLbp6E2+mqVNF/Je8A==",
       "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    },
+    "Bakery.DBBakeryRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Bakery.Domain/1.0.0": {
       "type": "project",

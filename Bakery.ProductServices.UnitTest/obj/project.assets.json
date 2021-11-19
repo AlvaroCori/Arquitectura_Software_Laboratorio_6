@@ -1671,6 +1671,19 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "Bakery.DBBakeryRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Bakery.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bakery.DBBakeryRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bakery.DBBakeryRepository.dll": {}
+        }
+      },
       "Bakery.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -1685,6 +1698,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Bakery.DBBakeryRepository": "1.0.0",
           "Bakery.Domain": "1.0.0"
         },
         "compile": {
@@ -5930,6 +5944,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "Bakery.DBBakeryRepository/1.0.0": {
+      "type": "project",
+      "path": "../Bakery.RepositoryBakeryBD/Bakery.DBBakeryRepository.csproj",
+      "msbuildProject": "../Bakery.RepositoryBakeryBD/Bakery.DBBakeryRepository.csproj"
+    },
     "Bakery.Domain/1.0.0": {
       "type": "project",
       "path": "../Bakery.Domain/Bakery.Domain.csproj",
@@ -5943,6 +5962,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Bakery.DBBakeryRepository >= 1.0.0",
       "Bakery.Domain >= 1.0.0",
       "Bakery.ProductServices >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
@@ -5957,11 +5977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductServices.UnitTest\\Bakery.ProductServices.UnitTest.csproj",
+      "projectUniqueName": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductServices.UnitTest\\Bakery.ProductServices.UnitTest.csproj",
       "projectName": "Bakery.ProductServices.UnitTest",
-      "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductServices.UnitTest\\Bakery.ProductServices.UnitTest.csproj",
+      "projectPath": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductServices.UnitTest\\Bakery.ProductServices.UnitTest.csproj",
       "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductServices.UnitTest\\obj\\",
+      "outputPath": "c:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.ProductServices.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5980,6 +6000,9 @@
           "projectReferences": {
             "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj": {
               "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj"
+            },
+            "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.RepositoryBakeryBD\\Bakery.DBBakeryRepository.csproj": {
+              "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.RepositoryBakeryBD\\Bakery.DBBakeryRepository.csproj"
             },
             "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.ProductServices.csproj": {
               "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Repository\\Bakery.ProductServices.csproj"

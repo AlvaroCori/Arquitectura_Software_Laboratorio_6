@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Bakery.DBBakeryRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Bakery.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bakery.DBBakeryRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bakery.DBBakeryRepository.dll": {}
+        }
+      },
       "Bakery.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Bakery.DBBakeryRepository/1.0.0": {
+      "type": "project",
+      "path": "../Bakery.RepositoryBakeryBD/Bakery.DBBakeryRepository.csproj",
+      "msbuildProject": "../Bakery.RepositoryBakeryBD/Bakery.DBBakeryRepository.csproj"
+    },
     "Bakery.Domain/1.0.0": {
       "type": "project",
       "path": "../Bakery.Domain/Bakery.Domain.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Bakery.DBBakeryRepository >= 1.0.0",
       "Bakery.Domain >= 1.0.0"
     ]
   },
@@ -55,6 +74,9 @@
           "projectReferences": {
             "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj": {
               "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.Domain\\Bakery.Domain.csproj"
+            },
+            "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.RepositoryBakeryBD\\Bakery.DBBakeryRepository.csproj": {
+              "projectPath": "C:\\Users\\ABC\\Downloads\\arquitectura\\laboratorio_6\\Arquitectura_Software_Laboratorio_6\\Bakery.RepositoryBakeryBD\\Bakery.DBBakeryRepository.csproj"
             }
           }
         }
